@@ -16,6 +16,12 @@
       "dom"
     ],
     "paths": {
+      "rxjs": [
+        "node_modules/rxjs"
+      ],
+      "rxjs/*": [
+        "node_modules/rxjs/*"
+      ],
       "ts-sn-utilities": [
         "dist/ts-sn-utilities/ts-sn-utilities",
         "dist/ts-sn-utilities"

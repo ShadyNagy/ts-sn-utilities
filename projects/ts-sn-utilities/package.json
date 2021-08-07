@@ -46,9 +46,6 @@
   "peerDependencies": {
     "rxjs": "6.x"
   },
-  "dependencies": {
-    "tslib": "~2.1.0"
-  },
   "homepage": "https://shadynagy.com",
   "repository": {
     "type": "git",
