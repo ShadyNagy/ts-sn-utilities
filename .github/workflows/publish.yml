@@ -21,7 +21,7 @@ jobs:
     - name: Dependencies Install
       run: npm install
     - name: Build library
-      run: npm run build ts-sn-utilities -- --prod
+      run: npm run build-lib
     - name: Publish if version has been updated
       uses: JS-DevTools/npm-publish@v1
       with: # All of theses inputs are optional
