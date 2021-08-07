@@ -1,5 +1,5 @@
 {
-  "name": "angular-debouncer-example",
+  "name": "ts-sn-utilities",
   "version": "0.0.0",
   "engines": {
     "node": "^12.0.0"
@@ -8,6 +8,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
+    "build-lib": "npm run build --prefix ./projects/ts-sn-utilities/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"

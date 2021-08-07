@@ -6,7 +6,7 @@ on:
     branches:
       - master # Change this to your default branch
     paths:
-      - 'projects/ngx-keypad/**'
+      - 'projects/ts-sn-utilities/**'
 jobs:
   npm-publish:
     name: npm-publish
@@ -21,9 +21,9 @@ jobs:
     - name: Dependencies Install
       run: npm install
     - name: Build library
-      run: npm run build ngx-keypad -- --prod
+      run: npm run build ts-sn-utilities -- --prod
     - name: Publish if version has been updated
       uses: JS-DevTools/npm-publish@v1
       with: # All of theses inputs are optional
         token: ${{ secrets.NPM_AUTH_TOKEN }} # You need to set this in your repo settings
-        package: "./dist/ngx-keypad/package.json"        
+        package: "./dist/ts-sn-utilities/package.json"        

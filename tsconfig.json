@@ -16,7 +16,7 @@
       "dom"
     ],
     "paths": {
-      "ngx-keypad": [
+      "ts-sn-utilities": [
         "dist/ts-sn-utilities/ts-sn-utilities",
         "dist/ts-sn-utilities"
       ]
