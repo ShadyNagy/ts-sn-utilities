@@ -108,3 +108,4 @@ We welcome all contributions. Please read our [CONTRIBUTING.md](https://github.c
 - [ShadyNagy](http://www.shadynagy.com/)
 
 > We list some users here, if your company or product uses ts-sn-utilities, let us know [here](https://github.com/shadynagy/ts-sn-utilities/issues/1)!
+
