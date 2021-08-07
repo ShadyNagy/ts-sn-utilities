@@ -17,13 +17,13 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@master
       with:
-        node-version: 12.x    
-    - name: Go folder
-      run: cd ./projects/ts-sn-utilities/
+        node-version: 12.x          
     - name: Dependencies Install
       run: npm install
+      working-directory: ./projects/ts-sn-utilities
     - name: Build library
       run: npm run build
+      working-directory: ./projects/ts-sn-utilities
     - name: Publish if version has been updated
       uses: JS-DevTools/npm-publish@v1
       with: # All of theses inputs are optional
