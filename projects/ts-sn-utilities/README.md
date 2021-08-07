@@ -1,14 +1,4 @@
 <p align="center">
-  <a href="https://www.npmjs.com/package/ngx-keypad">
-    <img width="230" src="icon.png">
-  </a>
-</p>
-
-<h1 align="center">
-NGX-KEYPAD
-</h1>
-
-<p align="center">
     <a href="https://www.npmjs.com/package/ngx-keypad" alt="npm" target="_blank">
         <img src="https://img.shields.io/npm/v/ngx-keypad" />
     </a>
@@ -21,9 +11,6 @@ NGX-KEYPAD
     <a href="https://github.com/ShadyNagy/ngx-keypad/actions?query=workflow%3Anpm-publish" alt="Workflows">
         <img src="https://github.com/shadynagy/ngx-keypad/workflows/npm-publish/badge.svg" />
     </a>
-    <a href="https://github.com/ShadyNagy/ngx-keypad/graphs/contributors" alt="Contributors">
-        <img src="https://img.shields.io/github/contributors/ShadyNagy/ngx-keypad" />
-    </a>
     <a href="https://github.com/ShadyNagy/ngx-keypad/blob/master/LICENSE" alt="license">
         <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
     </a>
@@ -35,8 +22,6 @@ NGX-KEYPAD
 # NGX-KEYPAD
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
-
-[Demo Link](https://demo-ngx-keypad.shadynagy.com/)
 
 ## :star: Give a Star!
 If you like or are using this project please give it a star [here](https://github.com/ShadyNagy/ngx-keypad). Thanks!
@@ -118,7 +103,6 @@ In your template write this code.
 $ git clone git@github.com:ShadyNagy/ngx-keypad.git
 $ cd ngx-keypad
 $ npm install
-$ npm run build ngx-keypad -- --prod
 $ npm run start
 ```
 
