@@ -89,7 +89,9 @@ In your service write this code.
 $ git clone git@github.com:ShadyNagy/ts-sn-utilities.git
 $ cd ts-sn-utilities
 $ npm install
-$ npm run build-lib
+$ cd ./projects/ts-sn-utilities
+$ npm install
+$ npm run build
 $ npm run start
 ```
 
