@@ -39,10 +39,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## :star: Give a Star!
 If you like or are using this project please give it a star [here](https://github.com/ShadyNagy/ts-sn-utilities). Thanks!
 
-## Screenshot 
-
-![ts-sn-utilities](https://user-images.githubusercontent.com/6225593/91753134-bff8e300-ebc7-11ea-8da3-8c4b58ca3597.gif)
-
 ## ✨ Features
 
 - Insert numbers only.
