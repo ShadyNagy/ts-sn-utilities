@@ -41,12 +41,7 @@ If you like or are using this project please give it a star [here](https://githu
 
 ## ✨ Features
 
-- Insert numbers only.
-- Numbers with mask so it is can use as password.
-- Period can use.
-- Hide display if you want.
-- Maximum length for input string.
-- Maximum number can set.
+- Debouncer: Using the Debounce Operators, we wait until the user pauses typing before sending an HTTP Request. This will eliminates unnecessary HTTP requests.  
 
 ## ☀️ License
 
