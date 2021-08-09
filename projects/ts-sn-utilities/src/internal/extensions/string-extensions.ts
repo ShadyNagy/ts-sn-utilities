@@ -10,4 +10,4 @@ Object.prototype.toQuery = (): string => {
     return ApiHelper.createQuery(this);
 };
 
-module.exports = Object;
+export {};
