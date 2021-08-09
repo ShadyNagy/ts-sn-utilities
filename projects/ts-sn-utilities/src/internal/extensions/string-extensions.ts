@@ -5,7 +5,9 @@ declare global {
         toQuery(): string;
     }
 }
+
 Object.prototype.toQuery = (): string => {
     return ApiHelper.createQuery(this);
-}
-export {};
+};
+
+module.exports = Object;
