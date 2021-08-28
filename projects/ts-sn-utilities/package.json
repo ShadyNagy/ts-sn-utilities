@@ -1,7 +1,7 @@
 {
   "name": "ts-sn-utilities",
   "author": "Shady Nagy <info@shadynagy.com>",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "license": "MIT",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
