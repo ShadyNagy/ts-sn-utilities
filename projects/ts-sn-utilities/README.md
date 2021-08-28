@@ -20,7 +20,9 @@
     <a href="https://www.paypal.me/shadynagy" alt="paypal">
         <img src="https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal" />
     </a>
-    [![Generic badge](https://img.shields.io/badge/Documentation-TS-SN-Utilities%20v5-Green.svg)](https://shadynagy.github.io/ts-sn-utilities/)
+    <a href="https://shadynagy.github.io/ts-sn-utilities/" alt="Documentation">
+        <img src="https://img.shields.io/badge/Documentation-TS--SN--Utilities-green" />
+    </a>
 </p>
 
 # ts-sn-utilities
