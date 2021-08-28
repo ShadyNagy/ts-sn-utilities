@@ -30,11 +30,12 @@ ts-sn-utilities
     <a href="https://www.paypal.me/shadynagy" alt="paypal">
         <img src="https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal" />
     </a>
+    [![Generic badge](https://img.shields.io/badge/Documentation-TS-SN-Utilities%20v5-Green.svg)](https://shadynagy.github.io/ts-sn-utilities/)
+
 </p>
 
 # ts-sn-utilities
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
 ## :star: Give a Star!
 If you like or are using this project please give it a star [here](https://github.com/ShadyNagy/ts-sn-utilities). Thanks!
@@ -51,7 +52,7 @@ If you like or are using this project please give it a star [here](https://githu
 
 ## 🖥 Environment Support
 
-* Angular `^9.0.0` [![npm package](https://img.shields.io/npm/v/ts-sn-utilities?style=flat-square)](https://www.npmjs.com/package/ts-sn-utilities)
+* Angular `^12.0.0` [![npm package](https://img.shields.io/npm/v/ts-sn-utilities?style=flat-square)](https://www.npmjs.com/package/ts-sn-utilities)
 
 ## 📦 Installation
 
