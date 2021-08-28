@@ -27,13 +27,12 @@ ts-sn-utilities
     <a href="https://github.com/ShadyNagy/ts-sn-utilities/blob/master/LICENSE" alt="license">
         <img src="https://img.shields.io/badge/License-MIT-blue.svg" />
     </a>
-    <a href="https://www.paypal.me/shadynagy" alt="paypal">
-        <img src="https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal" />
-    </a>
     <a href="https://shadynagy.github.io/ts-sn-utilities/" alt="Documentation">
         <img src="https://img.shields.io/badge/Documentation-TS--SN--Utilities-green" />
     </a>
-
+    <a href="https://www.paypal.me/shadynagy" alt="paypal">
+        <img src="https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal" />
+    </a>    
 </p>
 
 # ts-sn-utilities
