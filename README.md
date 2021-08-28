@@ -31,7 +31,7 @@ ts-sn-utilities
         <img src="https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal" />
     </a>
     <a href="https://shadynagy.github.io/ts-sn-utilities/" alt="Documentation">
-        <img src="https://img.shields.io/badge/Documentation-TS-SN-Utilities%20v5-Green.svg" />
+        <img src="https://img.shields.io/badge/Documentation-TS--SN--Utilities-green" />
     </a>
 
 </p>
