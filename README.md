@@ -30,11 +30,10 @@ ts-sn-utilities
     <a href="https://shadynagy.github.io/ts-sn-utilities/" alt="Documentation">
         <img src="https://img.shields.io/badge/Documentation-TS--SN--Utilities-green" />
     </a>
-    <a href="https://www.paypal.me/shadynagy" alt="paypal">
-        <img src="https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal" />
+    <a href="https://github.com/sponsors/ShadyNagy" alt="sponsors">
+        <img src="https://img.shields.io/badge/Sponsor-ShadyNagy-brightgreen?logo=github-sponsors" />
     </a>    
 </p>
-
 # ts-sn-utilities
 
 
